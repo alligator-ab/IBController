@@ -58,8 +58,6 @@ Roadmap
 =======
 - code modernization
 	CString replaced by std::string
-	access to ListCtrl with [] operator,
-	insertion through <<
 - cleaning
 - Upgrade to TWS API 979.1
 - Addition of various APIs: 
