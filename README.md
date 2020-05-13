@@ -65,5 +65,6 @@ Roadmap
 	* News, 
 	* Option greeks, 
 	* Fundamentals (reuters)
+- RESTful API to invoke IBController
 
 
